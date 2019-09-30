@@ -1,0 +1,2 @@
+kubeadm join 10.0.2.15:6443 --token wync3h.brenj4kz1os73m6z \
+    --discovery-token-ca-cert-hash sha256:c818b3b53d9ceefa81dd436fb54fb291ea86afd51cc189706e8b28445ba11101
